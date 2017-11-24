@@ -25,52 +25,19 @@ Your submission should consist of a single file called **bub.s.** Incorrectly 
 
 ### Rubric
 
-Assignment 1
-
-Assignment 1
-
-CriteriaRatingsPts
-
- 
-
 This criterion is linked to a learning outcomeProgramme runs
-
- 
-
 1.0 pts  
-
- 
 
 This criterion is linked to a learning outcomeReads inputs correctly
-
- 
-
 1.0 pts  
-
- 
 
 This criterion is linked to a learning outcomeCorrect use of the heap
-
- 
-
 2.0 pts  
 
- 
-
 This criterion is linked to a learning outcomeCorrect implementation of bubblesort
-
- 
-
 5.0 pts  
 
- 
-
 This criterion is linked to a learning outcomePrints results correctly
-
- 
-
 1.0 pts  
-
- 
 
 Total points: 10.0
